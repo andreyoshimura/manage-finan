@@ -1,5 +1,28 @@
+# ===== Python =====
 venv/
 .env
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.sqlite3
+*.log
 logs/
+
+# ===== Node / clasp =====
+node_modules/
+.clasp.json
+
+# ===== OS =====
+.DS_Store
+Thumbs.db
+
+# ===== IDE =====
+.vscode/
+.idea/
+
+# ===== Secrets =====
+*.key
+*.pem
+*.json
+credentials.json
