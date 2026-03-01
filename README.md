@@ -116,8 +116,8 @@ Sem improviso.
 
 # Financeiro Automation
 
-Sistema automatizado de gestao financeira pessoal baseado em Gmail,
-Google Drive e Google Sheets. Arquitetura preparada para evolucao futura
+Sistema automatizado de gestão financeira pessoal baseado em Gmail, 
+Google Drive e Google Sheets. Arquitetura preparada para evolução futura
 (n8n, PostgreSQL, Python Analytics).
 
 ## Objetivo
